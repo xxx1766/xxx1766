@@ -14,6 +14,7 @@
     </td>
     <td valign="top" width="50%">
       <div>
+        <h2></h2>
         <h3 align="left">Languages and Tools:</h3>
         <ul>
           <li><t align="left"> 
