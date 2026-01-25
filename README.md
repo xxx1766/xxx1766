@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td valign="top" width="50%" align="center" >
-      <p><img wide="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxx1766&show_icons=true&locale=en&layout=compact" alt="xxx1766" /></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxx1766&show_icons=true&locale=en&layout=compact" alt="xxx1766" /></p>
     </td>
     <td valign="top" width="50%" align="center">
       <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xxx1766&show_icons=true&locale=en" alt="xxx1766" /></p>
