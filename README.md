@@ -2,7 +2,7 @@
   <tr>
     <td valign="top" width="50%">
       <div>
-        <h2 height="20px">Hi 👋, I'm AnneBrown🍀</h2>
+        <h2 height="100px">Hi 👋, I'm AnneBrown🍀</h2>
         <h3>A seasoned developer</h3>
         <ul>
           <li>🔭 I'm currently working on <strong>Kubernetes scheduling work...</strong></li>
@@ -14,7 +14,7 @@
     </td>
     <td valign="top" width="50%">
       <div>
-        <h2 height="20px"></h2>
+        <h2 height="100px"></h2>
         <h3 align="left">Languages and Tools:</h3>
         <ul>
           <li><t align="left"> 
