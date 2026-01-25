@@ -1,4 +1,4 @@
-<table border="0" background-color="transparent">
+<table border="0" background-color="#11ffee00">
   <tr>
     <div>
     <h2>Hi 👋, I'm AnneBrown🍀</h2>
