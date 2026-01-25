@@ -3,17 +3,9 @@
 # Hi 👋, I'm AnneBrown
 
 ### A seasoned developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxx1766&label=Profile views&color=0e75b6&style=flat" alt="xxx1766" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxx1766" alt="xxx1766" /></a> </p>
-
 - 🔭 I'm currently working on **Kubernetes scheduling work, and KubeEdge**
-
 - 🌱 I'm currently learning **Kubernetes**
-
 - 📫 How to reach me **annebrown2xxx@gmail.com**
-
 - 📝 I regularly write articles on **[http://xxx1766.github.io](http://xxx1766.github.io)**
 
 <h3 align="left">Connect with me:</h3>
