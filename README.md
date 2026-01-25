@@ -1,4 +1,4 @@
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/42826d05-4e93-4a39-bcff-c00688828246" /><table>
+<table>
   <tr>
     <td valign="top" width="50%">
       <div>
@@ -16,24 +16,24 @@
       <div>
         <h3 align="left">Languages and Tools:</h3>
         <ul>
-          <li>☁️ <p align="left"> 
+          <li>☁️ <t align="left"> 
             <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
             <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
             <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
             <img src="https://skillicons.dev/icons?i=kubernetes" alt="k8s" width="40" height="40"/>
             <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> 
-          </p>
+          </t>
           </li>
-          <li>💻 <p align="left">
+          <li>💻 <t align="left">
             <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
             <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
             <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
             <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
             <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
             <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
-          </p>
+          </t>
           </li>
-          <li>🔧 <p align="left">
+          <li>🔧 <t align="left">
             <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/>
             <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
             <img src="https://cdn.simpleicons.org/hexo/0E83CD" alt="hexo" width="40" height="40"/>
@@ -42,7 +42,7 @@
             <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
             <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/>
             <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/>
-          </p>
+          </t>
           </li>
         </ul>
       </div>
