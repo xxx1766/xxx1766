@@ -53,7 +53,7 @@
       <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxx1766&show_icons=true&locale=en&layout=compact" alt="xxx1766" /></p>
     </td>
     <td valign="top" width="50%">
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxx1766&show_icons=true&locale=en" alt="xxx1766" /></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xxx1766&show_icons=true&locale=en" alt="xxx1766" /></p>
     </td>
   </tr>
 </table>
