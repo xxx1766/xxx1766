@@ -20,15 +20,16 @@
       <div>
         <h3 align="left">Languages and Tools:</h3>
         <ul>
-            <li style="white-space: nowrap;"><t align="left"> 
-              <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="20" height="20"/><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="20" height="20"/><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="20" height="20"/><img src="https://skillicons.dev/icons?i=kubernetes" alt="k8s" width="20" height="20"/><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="20" height="20"/> 
-            </t></li>
-            <li style="white-space: nowrap;"><t align="left">
-              <img src="https://skillicons.dev/icons?i=py" alt="python" width="20" height="20"/><img src="https://skillicons.dev/icons?i=go" alt="go" width="20" height="20"/><img src="https://skillicons.dev/icons?i=c" alt="c" width="20" height="20"/><img src="https://skillicons.dev/icons?i=css" alt="css" width="20" height="20"/><img src="https://skillicons.dev/icons?i=html" alt="html" width="20" height="20"/><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="20" height="20"/>
-            </t></li>
-            <li style="white-space: nowrap;"><t align="left">
-              <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="20" height="20"/><img src="https://skillicons.dev/icons?i=git" alt="git" width="20" height="20"/><img src="https://cdn.simpleicons.org/hexo/0E83CD" alt="hexo" width="20" height="20"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="20" height="20"/><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="20" height="20"/><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="20" height="20"/><img src="https://skillicons.dev/icons?i=qt" alt="qt" width="20" height="20"/><img src="https://skillicons.dev/icons?i=spring" alt="spring" width="20" height="20"/>
-            </t></li>
+            <li>
+              <img src="https://skillicons.dev/icons?i=aws" width="20" height="20" /><img src="https://skillicons.dev/icons?i=azure" width="20" height="20" /><img src="https://skillicons.dev/icons?i=gcp" width="20" height="20" /><img src="https://skillicons.dev/icons?i=kubernetes" width="20" height="20" /><img src="https://skillicons.dev/icons?i=docker" width="20" height="20" />
+            </li>
+            <li>
+              <img src="https://skillicons.dev/icons?i=py" width="20" height="20" /><img src="https://skillicons.dev/icons?i=go" width="20" height="20" /><img src="https://skillicons.dev/icons?i=c" width="20" height="20" /><img src="https://skillicons.dev/icons?i=css" width="20" height="20" /><img src="https://skillicons.dev/icons?i=html" width="20" height="20" /><img src="https://skillicons.dev/icons?i=js" width="20" height="20" />
+            </li>
+            <li>
+              <img src="https://skillicons.dev/icons?i=androidstudio" width="20" height="20" /><img src="https://skillicons.dev/icons?i=git" width="20" height="20" /><img src="https://cdn.simpleicons.org/hexo/0E83CD" width="20" height="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="20" height="20" /><img src="https://skillicons.dev/icons?i=linux" width="20" height="20" /><img src="https://skillicons.dev/icons?i=photoshop" width="20" height="20" /><img src="https://skillicons.dev/icons?i=qt" width="20" height="20" /><img src="https://skillicons.dev/icons?i=spring" width="20" height="20" />
+            </li>
+
           </ul>
       </div>
     </td>
