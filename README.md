@@ -22,9 +22,7 @@
             <ul>
               <li><img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker" height="20" /></li>
               <li><img src="https://skillicons.dev/icons?i=py,go,c,css,html,js" height="20" /></li>
-              <li>
-                <img src="https://skillicons.dev/icons?i=androidstudio,git" height="20"><img src="https://cdn.simpleicons.org/hexo/0E83CD" width="20" height="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="20" height="20" /><img src="https://skillicons.dev/icons?i=linux,photoshop,qt,spring" height="20" />
-              </li>
+              <li><img src="https://skillicons.dev/icons?i=androidstudio,git" height="20" /><img src="https://cdn.simpleicons.org/hexo/0E83CD" height="20" width="20" style="margin: 0 5px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="20" width="20" style="margin: 0 5px;" /><img src="https://skillicons.dev/icons?i=linux,photoshop,qt,spring" height="20" /></li>
             </ul>
       </div>
     </td>
