@@ -19,18 +19,13 @@
     <td valign="top" width="50%">
       <div>
         <h3 align="left">Languages and Tools:</h3>
-        <ul>
-            <li>
-              <img src="https://skillicons.dev/icons?i=aws" width="20" height="20" /><img src="https://skillicons.dev/icons?i=azure" width="20" height="20" /><img src="https://skillicons.dev/icons?i=gcp" width="20" height="20" /><img src="https://skillicons.dev/icons?i=kubernetes" width="20" height="20" /><img src="https://skillicons.dev/icons?i=docker" width="20" height="20" />
-            </li>
-            <li>
-              <img src="https://skillicons.dev/icons?i=py" width="20" height="20" /><img src="https://skillicons.dev/icons?i=go" width="20" height="20" /><img src="https://skillicons.dev/icons?i=c" width="20" height="20" /><img src="https://skillicons.dev/icons?i=css" width="20" height="20" /><img src="https://skillicons.dev/icons?i=html" width="20" height="20" /><img src="https://skillicons.dev/icons?i=js" width="20" height="20" />
-            </li>
-            <li>
-              <img src="https://skillicons.dev/icons?i=androidstudio" width="20" height="20" /><img src="https://skillicons.dev/icons?i=git" width="20" height="20" /><img src="https://cdn.simpleicons.org/hexo/0E83CD" width="20" height="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="20" height="20" /><img src="https://skillicons.dev/icons?i=linux" width="20" height="20" /><img src="https://skillicons.dev/icons?i=photoshop" width="20" height="20" /><img src="https://skillicons.dev/icons?i=qt" width="20" height="20" /><img src="https://skillicons.dev/icons?i=spring" width="20" height="20" />
-            </li>
-
-          </ul>
+            <ul>
+              <li><img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker" height="20" /></li>
+              <li><img src="https://skillicons.dev/icons?i=py,go,c,css,html,js" height="20" /></li>
+              <li>
+                <img src="https://skillicons.dev/icons?i=androidstudio,git" height="20" /><img src="https://cdn.simpleicons.org/hexo/0E83CD" width="20" height="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="20" height="20" /><img src="https://skillicons.dev/icons?i=linux,photoshop,qt,spring" height="20" />
+              </li>
+            </ul>
       </div>
     </td>
   </tr>
